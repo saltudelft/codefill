@@ -1,6 +1,6 @@
 # CodeFill
 This repository contains the code for our paper titled as 
-<b>"CodeFill: Multi-token Code Completion by Jointly Learning from Structure and Naming Sequences", DOI: 10.1145/3510003.3510172</b>.
+<b>"CodeFill: Multi-token Code Completion by Jointly Learning from Structure and Naming Sequences"</b>, DOI: 10.1145/3510003.3510172.
 This work is authored by _Maliheh Izadi_, _Roberta Gismondi_, and _Georgios Gousios_ 
 and it has been accepted for publication at #ICSE2022.
 
